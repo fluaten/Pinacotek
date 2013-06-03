@@ -6,11 +6,17 @@ Source : <https://github.com/fluaten/Pinacotek>
 
 Author : Nicolas Boillot <http://www.fluate.net/code/pinacotek>
 
-Put all media (images, videos, gifs) in folder media.
+An app I made specifically to show gifs, images in general and video in fullscreen on a computer (for exhibition purpose). With a diaporama mode, gifs can be mixed with regular image, and video.
+
+Edit settings.txt to change parameters at start.
+
+Put all media (images, videos, gifs) in folder « media », it will read them in order depending on their filenames.
 Rename files to define order of diaporama.
 
-Drag and drop a gif, video, image on the window 
+Or, you can drag and drop a gif, video, image on the window
 to play it and set the folder for the diaporama.
+
+media type : gif / mov / avi / mp4 / mpg / mpeg / png / jpg / tiff / bmp / jpeg
 
 ### Download (Mac OS X 10.4-10.8)
 
@@ -41,17 +47,17 @@ Press UP or DOWN / to forward or rewind video
 Press + = or - to change volume
 
 
+
 Press W or RETURN to stop the loop 
 
 Press X or C to skip to next/previous frame
 
 Press R to reverse animation 
 
-Press UP or DOWN to change animation speed
-
 Press 0 to 9 to change animation speed
 
 Press , * / to slow animation speed
+
 
 
 Press J to M to change framerate 
@@ -63,6 +69,7 @@ Press I to have info on image
 Press S to show diaporama settings
 
 
+
 Press D to start/stop diaporama
 
 Press N to inverse diaporama
@@ -70,6 +77,7 @@ Press N to inverse diaporama
 Press Z to zoom image in fullscreen
 
 Press B to show the background image in fullscreen
+
 
 
 Press V to capture screen
@@ -84,6 +92,7 @@ Press U to visit the Homepage of Pinacotek
 Title=Pinacotek // Title of the window + filename
 
 
+
 Extension=all
 
 // Files allowed in the folder, put "all" for all media, 
@@ -93,24 +102,31 @@ Extension=all
 // gif/mov/avi/mp4/mpg/mpeg/png/jpg/tiff/bmp/jpeg
 
 
+
 Path=../media
 // Path to the startup media folder
+
 
 
 sortInverse=0
 // Read file in inverse order
 
+
 volume=70
 // Default volume if video
+
 
 playerSpeed=1.0
 // media play speed 1.0 = normal speed , 0.03 = 2 sec/frame
 
+
 framerate=25
 // framerate of the app 25 = 25 fps
 
+
 StartfullScreen=0
 // Startup in fullscreen 1 = true
+
 
 ZoomfullScreen=0
 // Zoom image in fullscreen 1 = true
@@ -175,6 +191,10 @@ fadeTime=5.0
 
 delayBlack=1
 // duration of a black frame during two fade 1 = 1 sec
+
+
+
+
 
 ### Simplified BSD License
 
