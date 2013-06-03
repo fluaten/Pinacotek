@@ -14,17 +14,20 @@ to play it and set the folder for the diaporama.
 
 ### Download (Mac OS X 10.4-10.8)
 
-##<http://www.fluate.net/code/pinacotek>
-
+#####<http://www.fluate.net/code/pinacotek>
 
 ### Required
 
 For compilation :
+
 Openframeworks 0.7.4
---
+
 ofxExtras
+
 ofxFadable
+
 ofxIniSettings
+
 ofxNotify
 
 ### Shortcuts
@@ -74,13 +77,11 @@ Press V to capture screen
 Press U to visit the Homepage of Pinacotek
 
 
-### Options in setting.txt
+### Options in settings.txt
 
 [General]
 
-Title=Pinacotek
-
-// Title of the window + filename
+Title=Pinacotek // Title of the window + filename
 
 
 Extension=all
@@ -93,9 +94,6 @@ Extension=all
 
 
 Path=../media
-
-//Path=../../../../../../../Users/admin/Desktop
-
 // Path to the startup media folder
 
 
@@ -121,6 +119,8 @@ ZoomfullScreen=0
 ////////////////////////////
 
 [Background]
+
+
 redBackgroundColor=0
 // Red color background in fullscreen 0 to 255
 
@@ -143,6 +143,8 @@ BackgroundImagePath=Contents/Resources/fondwallxs.gif
 ////////////////////////////
 
 [Diaporama]
+
+
 diaporamaMode=0
 // diaporama or single image //  1 = true  0 = false
 
@@ -152,6 +154,8 @@ timerDuration=50
 ////////////////////////////
 
 [Text]
+
+
 Notification=1
 // text notification on screen //  1 = true  0 = false
 
@@ -164,6 +168,8 @@ notifyTime=6
 ////////////////////////////
 
 [Fadein]
+
+
 fadeTime=5.0
 // duration of fade to black 5.0 = 5 sec
 
