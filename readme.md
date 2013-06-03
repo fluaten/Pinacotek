@@ -19,46 +19,74 @@ Mac OS X 10.4-10.8
 ### Shortcuts
 
 Press SPACE or F to go fullscreen 
+
 Press LEFT or RIGHT / left click or right click to navigate in folder
+
 Press UP or DOWN / to forward or rewind video
+
 Press + = or - to change volume
 
 
 Press W or RETURN to stop the loop 
+
 Press X or C to skip to next/previous frame
+
 Press R to reverse animation 
+
 Press UP or DOWN to change animation speed
+
 Press 0 to 9 to change animation speed
+
 Press , * / to slow animation speed
 
+
 Press J to M to change framerate 
+
 Press T to see framerate 
+
 Press I to have info on image
+
 Press S to show diaporama settings
 
+
 Press D to start/stop diaporama
+
 Press N to inverse diaporama
+
 Press Z to zoom image in fullscreen
+
 Press B to show the background image in fullscreen
 
+
 Press V to capture screen
+
 Press U to visit the Homepage of Pinacotek
+
 
 ### Options in setting.txt
 
 [General]
+
 Title=Pinacotek
+
 // Title of the window + filename
 
 
 Extension=all
+
 // Files allowed in the folder, put "all" for all media, 
+
 // choose one in the list below to restrict 
+
 // gif/mov/avi/mp4/mpg/mpeg/png/jpg/tiff/bmp/jpeg
 
+
 Path=../media
+
 //Path=../../../../../../../Users/admin/Desktop
+
 // Path to the startup media folder
+
 
 sortInverse=0
 // Read file in inverse order
@@ -95,7 +123,9 @@ BackgroundImage=0
 // Background image in fullscreen 1 = true
 
 BackgroundImagePath=Contents/Resources/fondwallxs.gif
-// BackgroundImagePath in fullscreen, press B to show   
+
+// BackgroundImagePath in fullscreen, press B to show 
+  
 // ../fondwallxs.gif (at least 1920x1200)
 
 
