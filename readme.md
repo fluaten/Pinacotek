@@ -12,9 +12,20 @@ Rename files to define order of diaporama.
 Drag and drop a gif, video, image on the window 
 to play it and set the folder for the diaporama.
 
+### Download (Mac OS X 10.4-10.8)
+
+##<http://www.fluate.net/code/pinacotek>
+
+
 ### Required
 
-Mac OS X 10.4-10.8
+For compilation :
+Openframeworks 0.7.4
+--
+ofxExtras
+ofxFadable
+ofxIniSettings
+ofxNotify
 
 ### Shortcuts
 
