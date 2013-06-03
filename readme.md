@@ -1,8 +1,9 @@
 # Pinacotek
 
-A simple mediaPlayer to exhibit gifs, videos, images
+A simple media player to exhibit gifs, videos, images
 
 Source : <https://github.com/fluaten/Pinacotek>
+
 Author : Nicolas Boillot <http://www.fluate.net>
 
 Put all media (images, videos, gifs) in folder media.

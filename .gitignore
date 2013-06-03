@@ -1,3 +1,5 @@
 .DS_Store
 build/
 obj/
+.csync_journal.db
+*.db

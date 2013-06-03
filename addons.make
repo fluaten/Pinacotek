@@ -1,2 +1,4 @@
-ofxXmlSettings
+ofxExtras
 ofxFadable
+ofxIniSettings
+ofxNotify
