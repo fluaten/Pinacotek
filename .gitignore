@@ -3,3 +3,5 @@ build/
 obj/
 .csync_journal.db
 *.db
+
+src/.csync_journal.db

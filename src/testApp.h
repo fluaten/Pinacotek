@@ -1,7 +1,7 @@
 /*
  *  testApp.h
  *  A simple mediaPlayer made with OpenFrameworks
- *  Homepage : http://www.fluate.net/code/Pinacotek
+ *  Homepage : http://www.fluate.net/code/pinacotek
  *  Source : https://github.com/fluaten/Pinacotek
  *  Created by Nicolas Boillot on May 2013.
  *  Made with ofxFadable by Rui Madeira

@@ -4,7 +4,7 @@ A simple media player to exhibit gifs, videos, images
 
 Source : <https://github.com/fluaten/Pinacotek>
 
-Author : Nicolas Boillot <http://www.fluate.net>
+Author : Nicolas Boillot <http://www.fluate.net/code/pinacotek>
 
 Put all media (images, videos, gifs) in folder media.
 Rename files to define order of diaporama.
@@ -14,7 +14,7 @@ to play it and set the folder for the diaporama.
 
 ### Download (Mac OS X 10.4-10.8)
 
-#####<http://www.fluate.net/code/pinacotek>
+#####<http://www.fluate.net/?dl_name=Pinacotek.zip>
 
 ### Required
 
